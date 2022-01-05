@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/recafox/route-prototype/static/css/main.a22359d3.css",
-    "main.js": "/recafox/route-prototype/static/js/main.35a27b53.js",
-    "static/js/787.30edf4f7.chunk.js": "/recafox/route-prototype/static/js/787.30edf4f7.chunk.js",
-    "index.html": "/recafox/route-prototype/index.html",
-    "main.a22359d3.css.map": "/recafox/route-prototype/static/css/main.a22359d3.css.map",
-    "main.35a27b53.js.map": "/recafox/route-prototype/static/js/main.35a27b53.js.map",
-    "787.30edf4f7.chunk.js.map": "/recafox/route-prototype/static/js/787.30edf4f7.chunk.js.map"
+    "main.css": "/route-prototype/static/css/main.a22359d3.css",
+    "main.js": "/route-prototype/static/js/main.9464db96.js",
+    "static/js/787.30edf4f7.chunk.js": "/route-prototype/static/js/787.30edf4f7.chunk.js",
+    "index.html": "/route-prototype/index.html",
+    "main.a22359d3.css.map": "/route-prototype/static/css/main.a22359d3.css.map",
+    "main.9464db96.js.map": "/route-prototype/static/js/main.9464db96.js.map",
+    "787.30edf4f7.chunk.js.map": "/route-prototype/static/js/787.30edf4f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a22359d3.css",
-    "static/js/main.35a27b53.js"
+    "static/js/main.9464db96.js"
   ]
 }
